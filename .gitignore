@@ -1,0 +1,9 @@
+.env
+__pycache__/
+node_modules/
+*.sqlite
+*.db
+
+*.__pycache__
+.next/
+out/
